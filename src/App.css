@@ -1,12 +1,12 @@
-.card-container {
+ .card-container {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-}
+} 
 
 .card {
   width: 20vw;
-  margin: 25px;
+  margin: 15px;
 }
 
 a {
@@ -28,11 +28,11 @@ ul {
 }
 
 .nav-list-item {
-  margin: auto 20px;
+  margin: auto 15px;
 }
 
 .car-container {
-  margin: 50px;
+  margin: 40px;
 }
 
 .car-paper {
